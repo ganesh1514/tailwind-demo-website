@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-/CSS Summary Cards.pdf
+/CSS_Summary_Cards.pdf
 .env
 .env.local
 .env.development.local
